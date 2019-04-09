@@ -1,0 +1,1 @@
+In "includes/config/config.php" change constants on yours
