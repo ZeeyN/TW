@@ -6,7 +6,7 @@
 
 
 
-$sql = "SELECT * FROM requests WHERE count > 2 AND operator_id = 10 OR operator_id = 12 ORDER BY id asc";
+$sql = "SELECT * FROM requests WHERE count > 2 AND operator_id = 10 OR operator_id = 12";
 
 
 
